@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**ricardorsj-dev/ricardorsj-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="1000" height="500" alt="Programação-Olá, Eu sou o Ricardo Rodrigues" src="https://github.com/user-attachments/assets/0f79c4b4-5765-4e04-b1fe-08f86b29da77" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Olá, eu sou o Ricardo Rodrigues
+
+💻 Desenvolvedor em formação  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+
+---
+
+## 🚀 Sobre mim
+Sou um desenvolvedor iniciante focado em Python, com interesse em resolver problemas e criar soluções práticas através da programação.
+
+---
+
+## 🛠️ Tecnologias
+- Python
+- Git & GitHub
+
+---
+
+## 📂 Projetos em destaque
+📌 Jokenpô (Pedra, Papel e Tesoura)  
+📌 Analisador de dados com Python  
+📌 Scripts de automação simples  
+
+---
+
+## 📈 Atualmente aprendendo
+- Estruturas de dados  
+- Boas práticas de programação  
+
+---
+
+## 🎯 Objetivo profissional
+Conseguir uma oportunidade como desenvolvedor júnior ou estagiário na área de tecnologia.
+
+---
+
+## 📫 Contato
+LinkedIn: https://www.linkedin.com/in/ricardo-rodrigues-79a410167/
