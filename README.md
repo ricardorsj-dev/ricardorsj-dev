@@ -24,5 +24,5 @@
 
 ## 📫 Contato
 
-- LinkedIn: https://linkedin.com/in/seuusuario
-- GitHub: https://github.com/seuusuario
+- LinkedIn: https://linkedin.com/in/ricardo-rodrigues-79a410167
+- GitHub: https://github.com/ricardorsj-dev
